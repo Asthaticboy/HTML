@@ -43,5 +43,6 @@ int main()
             cout << "Your answer for first number is: " << a-- << endl;
             cout << "Your answer for second number is: " << b-- << endl;
         }
+        else
     }
 }
